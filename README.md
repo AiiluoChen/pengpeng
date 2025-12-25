@@ -23,5 +23,5 @@
 ## 开发者信息
 
 如果您有任何疑问或反馈，请联系：
-- **邮箱**：support@example.com
+- **邮箱**：chenpeng.me@hotmail.com
 - **项目地址**：[https://github.com/aiiluo/HRV](https://github.com/aiiluo/HRV)
